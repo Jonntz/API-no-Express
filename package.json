@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "name": "api-no-express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
